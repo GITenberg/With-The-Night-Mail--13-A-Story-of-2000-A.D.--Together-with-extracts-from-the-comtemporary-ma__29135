@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29135#With-The-Night-Mail--13-A-Story-of-2000-A.D.--Together-with-extracts-from-the-comtemporary-ma_
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-06-16'
 gutenberg_type: Text
