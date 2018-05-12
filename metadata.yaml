@@ -1,0 +1,47 @@
+_repo: With-The-Night-Mail--13-A-Story-of-2000-A.D.--Together-with-extracts-from-the-comtemporary-ma__29135
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Reuterdahl, Henry
+    alias: Reuterdahl, H. (Henry)
+    birthdate: 1871
+    deathdate: 1925
+    gutenberg_agent_id: '33712'
+    url: http://www.gutenberg.org/2009/agents/33712
+  - agent_name: Leyendecker, Frank X.
+    birthdate: 1877
+    deathdate: 1924
+    gutenberg_agent_id: '33711'
+    url: http://www.gutenberg.org/2009/agents/33711
+covers:
+- cover_type: archival
+  image_path: 29135-h/images/ill-cover.jpg
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29135'
+  lccn: 09008570
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- !lcsh 'Aeronautics -- Fiction'
+title: "With the Night Mail: A Story of 2000 A.D.\r\n(Together with extracts from\
+  \ the comtemporary magazine in which it appeared)"
+url: http://www.gutenberg.org/ebooks/29135
